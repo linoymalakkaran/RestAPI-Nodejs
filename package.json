@@ -1,0 +1,23 @@
+{
+  "name": "svc_github_repo-server",
+  "version": "1.0.0",
+  "description": "svc_github_repo",
+  "main": "index.js",
+  "repository": "test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Linoy",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "fs-extra": "^8.0.1",
+    "install": "^0.12.2",
+    "multer": "^1.3.0",
+    "node-pre-gyp": "^0.13.0",
+    "sqlite3": "^4.0.8"
+  }
+}
